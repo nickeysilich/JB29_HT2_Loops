@@ -6,8 +6,6 @@ public class Task37 {
 
 	public static void main(String[] args) {
 
-		int a;
-		int b;
 		int x;
 		int y;
 
